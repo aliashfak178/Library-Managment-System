@@ -1,0 +1,5 @@
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Utilitys\bin\Debug\Utilitys.dll
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Utilitys\bin\Debug\Utilitys.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Utilitys\obj\Debug\Utilitys.dll
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Utilitys\obj\Debug\Utilitys.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Utilitys\obj\Debug\Utilitys.csprojResolveAssemblyReference.cache

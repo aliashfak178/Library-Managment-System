@@ -1,0 +1,19 @@
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.Properties.Resources.resources
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.csproj.GenerateResource.Cache
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\bin\Debug\Library Managment System.exe
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\bin\Debug\Library Managment System.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.exe
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.csprojResolveAssemblyReference.cache
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\bin\Debug\Library Managment System.exe.config
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\bin\Debug\Utilitys.dll
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\bin\Debug\Utilitys.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.LoginForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.DashbordForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.AddBooksForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.ViewBookForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.AddStudentForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.ViewStudentForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.IssueBooksForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.ReturnBookForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\ASP\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.CompeleteBookDeatailsForm.resources
